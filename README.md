@@ -1,3 +1,21 @@
+# Screenshots of Website.
+
+## Home page
+
+![image](https://user-images.githubusercontent.com/72646344/175003246-080a15a7-b72c-455d-8da4-0c06ea172fe1.png)
+
+## Books page
+
+![image](https://user-images.githubusercontent.com/72646344/175003411-01806166-ebc2-46ba-97b9-09d9cd82b117.png)
+
+## Cart Page
+
+![image](https://user-images.githubusercontent.com/72646344/175003523-33d51622-5789-48c2-a381-a395b8c33d65.png)
+
+## Update Profile Page
+
+![image](https://user-images.githubusercontent.com/72646344/175003806-3fdd39cc-1f85-4721-8d5d-2cde512e681b.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,23 +62,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-# Screenshots of Website.
-
-## Home page
-
-![image](https://user-images.githubusercontent.com/72646344/175003246-080a15a7-b72c-455d-8da4-0c06ea172fe1.png)
-
-## Books page
-
-![image](https://user-images.githubusercontent.com/72646344/175003411-01806166-ebc2-46ba-97b9-09d9cd82b117.png)
-
-## Cart Page
-
-![image](https://user-images.githubusercontent.com/72646344/175003523-33d51622-5789-48c2-a381-a395b8c33d65.png)
-
-## Update Profile Page
-
-![image](https://user-images.githubusercontent.com/72646344/175003806-3fdd39cc-1f85-4721-8d5d-2cde512e681b.png)
 
 # Thank You For Visiting.
